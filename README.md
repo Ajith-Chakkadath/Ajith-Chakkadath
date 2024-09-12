@@ -1,7 +1,6 @@
 👋 Hi, I’m @Ajith-Chakkadath  
 👀 I’m interested in Web development with a strong focus on MERN stack  
-🌱 I’m currently learning Blockchain and have started building decentralized applications (DApps)  
-💞️ I’m looking to collaborate on MERN stack projects and DApp development  
+💞️ I’m looking to collaborate on MERN stack projects 
 📫 Reach me on Discord or email me at ajithchakkadath@gmail.com  
 
 
